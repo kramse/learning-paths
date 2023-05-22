@@ -35,7 +35,5 @@ Other similar or related lists, maybe not aimed at beginners, but next step
 An awesome list of resources to design, implement and operate computer networks. [https://github.com/nyquist/awesome-networking](https://github.com/nyquist/awesome-networking)
 * Awesome Networking Awesome
 An awesome collection of courses, books, tutorials, software, and other resources about networking. [https://github.com/facyber/awesome-networking](https://github.com/facyber/awesome-networking)
-* Awesome Network Analysis Awesome DOI
-An awesome list of resources to construct, analyze and visualize network data. [https://github.com/briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)
 * Awesome Network Automation Awesome
 Network Automation is a cross between the discipline of Network Infrastructure and the discipline of Programming. This list was created to serve as a one-stop shop for information related to Network Automation. [https://github.com/networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation)

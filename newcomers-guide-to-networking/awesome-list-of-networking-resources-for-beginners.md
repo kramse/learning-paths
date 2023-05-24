@@ -1,6 +1,10 @@
-# Awesome list of networking resources for beginners
+# Newcomers' Guide to Networking
 
-This list is intended for beginners in networking. You want to learn how the Internet works! The list is structured with a collection of easy to access sites, projects and books I recommend.
+This document is intended as an awesome list of networking resources for beginners.
+
+You want to learn how the Internet works! Unfortunately there is a core list of terms and concepts which if known can make your learning much easier. This is an attempt to introduce these.
+
+The list is structured with a collection of easy to access sites, projects and books I recommend.
 
 We focus on smaller resources, like shorter books which may not go through all protocols step by step. Hopefully this will make it easier to complete parts of this at your own pace, and keep you interested.
 
